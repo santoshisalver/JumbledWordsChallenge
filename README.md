@@ -12,6 +12,7 @@ The game tracks the players' scores and allows them to quit at any time.
 - Option to quit and view final scores.
 - 
 ##Gameplay Example
+<br>
 player1, please enter your name: santoshi
 <br>
 player2, please enter your name: saipriya
